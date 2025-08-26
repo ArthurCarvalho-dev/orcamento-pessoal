@@ -27,5 +27,5 @@ Esse foi meu **primeiro projeto em React**, desenvolvido com o objetivo de prati
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ArthurCarvalho-dev/orcamento-pessoal-2.git
+   git clone https://github.com/ArthurCarvalho-dev/orcamento-pessoal.git
    cd calculadora-orcamento-pessoal
